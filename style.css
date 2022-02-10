@@ -18,7 +18,7 @@ body{
     justify-content: space-between;
     background-color: hsl(216, 50%, 16%);
     padding: 25px;
-    height: 580px;
+    height: 600px;
     width: 350px;
     border-radius: 15px;
 }
@@ -55,7 +55,7 @@ body{
     color: hsl(0, 0%, 100%);
     font-family: 'Outfit', sans-serif;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 24px;
     -webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 }
