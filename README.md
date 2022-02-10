@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Useful resources
 
 - [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This helped to create a flexbox component.
-- [Flexbox guide](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This helped to create a hover type image. Still need a lot of practice with this. And I do not like the solution so it need an update in the future.
+- [Image overlay guide](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This helped to create a hover type image. Still need a lot of practice with this. And I do not like the solution so it need an update in the future.
 
 ## Author
 
