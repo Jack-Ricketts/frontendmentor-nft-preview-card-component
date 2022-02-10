@@ -18,8 +18,8 @@ body{
     justify-content: space-between;
     background-color: hsl(216, 50%, 16%);
     padding: 25px;
-    height: 540px;
-    width: 325px;
+    height: 580px;
+    width: 350px;
     border-radius: 15px;
 }
 .imageContainer{
